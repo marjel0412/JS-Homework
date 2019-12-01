@@ -3,7 +3,7 @@ var Jim = 5000;
 console.log(Peter > Jim);
 
 var John = 38;
-var Mike = ((38 + 8)/2)-8;
+var Mike = ((John + 8)/2)-8;
 console.log("Mike is " + Mike + " years old.");
 
 var firstFlock = 78;
